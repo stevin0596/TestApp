@@ -1,0 +1,4 @@
+com/msd/myapplication/BuildConfig.java
+ com.msd.myapplication.BuildConfig
+com/msd/myapplication/MainActivity.java
+ com.msd.myapplication.MainActivity

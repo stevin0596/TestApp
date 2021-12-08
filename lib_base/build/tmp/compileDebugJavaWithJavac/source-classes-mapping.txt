@@ -1,0 +1,4 @@
+com/msd/base/BuildConfig.java
+ com.msd.base.BuildConfig
+com/msd/base/Utils.java
+ com.msd.lib_base.Utils
